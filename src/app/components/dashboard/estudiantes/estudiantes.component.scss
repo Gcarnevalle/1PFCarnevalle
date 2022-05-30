@@ -1,0 +1,36 @@
+table {
+    width: 100%;
+  }
+  th{
+    width: 25%;
+  }
+  .pointer{
+    cursor: pointer;
+  }
+  .mat-form-field {
+    font-size: 12px;
+    width: 100%;
+  }
+  .toolbar-container{
+    background-color: transparent;
+    border-radius: 100px;
+  }
+  .boton{
+    background-color:  rgb(83, 197, 154);
+}
+.barra-filtrar{
+  background-color:  rgb(83, 197, 154);;
+  border: 2px solid rgb(12, 75, 59) ;
+  border-radius: 30px;
+
+}
+.bg-div{
+  background-color:rgba(175, 64, 197, 0.24);
+  border-radius: 30px;
+  
+}
+.bg-tabla{
+  color: rgb(155, 20, 196);
+  background-color: transparent;
+
+}
